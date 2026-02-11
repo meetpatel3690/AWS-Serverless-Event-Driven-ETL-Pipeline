@@ -12,7 +12,7 @@ It follows a fully **event-driven architecture**, making it scalable, cost-effic
 
 ## 🏗️ System Architecture
 
-![System Architecture](./Architecture_Image.png)
+![System Architecture](./architecture_Image_2.png)
 *ETL Pipeline Architecture on AWS*
 
 ## 🔄 End-to-End Data Flow
